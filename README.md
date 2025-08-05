@@ -56,10 +56,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS--Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 ![Supraja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suprajapatoju&show_icons=true&theme=radical)
@@ -79,7 +77,3 @@
 > I believe debugging is just like being the detective in a crime movie where *you are also the murderer.* 😄
 
 ---
-
-## ☕ Support
-
-If you like my work, feel free to connect or collaborate!
